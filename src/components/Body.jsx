@@ -7,7 +7,7 @@ function Body() {
         <img
           src="../../Assets/Blue Shape.svg"
           alt="Blue"
-          className=" h-64 md:h-80 lg:h-96 -rotate-[45deg]"
+          className="h-64 md:h-80 lg:h-96 -rotate-[45deg]"
         />
         <img
           src="../../Assets/Pink Shape.svg"
