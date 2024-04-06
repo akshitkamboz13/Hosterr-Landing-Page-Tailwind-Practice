@@ -1,5 +1,5 @@
 
-```
+
 # Hosterr Landing Page
 
 Hosterr Landing Page is a project aimed at revising your skills in using Tailwind CSS with React and Vite. It utilizes React Icons for icons, and Google Fonts LATO and PLAYFAIR for typography. This project is designed to showcase responsive design techniques for various viewport sizes.
